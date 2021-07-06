@@ -1,0 +1,14 @@
+.items{
+    margin:50px
+}
+.image{
+    width: 100%;
+}
+.image img{
+    width:100%;
+    object-fit: cover;
+}
+.title{
+    text-align: center;
+    font-size: 30px;
+}

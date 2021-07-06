@@ -1,0 +1,25 @@
+.headers{
+    background-color: brown;
+    position: relative;
+    width: 100%;
+    height:100px;
+    top:0;
+    left:0;
+    margin: 0;
+
+}
+.headers ul{
+    list-style: none;
+    display: flex;
+    margin:0 ;
+    padding: 0;
+    align-items: baseline;
+}
+.headers li{
+    margin-left : 134px;
+}
+.headers a{
+    text-decoration: none;
+    font-size: 28px;
+    color: goldenrod;
+}
